@@ -1,0 +1,39 @@
+name: Suggest or report a feed
+description: Propose a new feed, or report one that is dead, moved or miscategorised.
+title: "[feed] "
+labels: ["feed"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is this about?
+      options:
+        - Add a new feed
+        - A feed is dead or has moved
+        - A feed is in the wrong category
+    validations:
+      required: true
+  - type: input
+    id: feed
+    attributes:
+      label: Feed URL
+      description: The RSS or Atom URL, not the site's home page.
+      placeholder: https://example.com/feed.xml
+    validations:
+      required: true
+  - type: input
+    id: site
+    attributes:
+      label: Site URL
+      placeholder: https://example.com/
+  - type: input
+    id: category
+    attributes:
+      label: Suggested category
+      description: One of the categories listed in FEEDS.md.
+      placeholder: Maldev & AV/EDR Evasion
+  - type: textarea
+    id: why
+    attributes:
+      label: Anything else
+      description: For a new feed, what it publishes. For a moved feed, the new URL.

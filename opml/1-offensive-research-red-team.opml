@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>CybeRSS: Offensive Research &amp; Red Team</title>
+  </head>
+  <body>
+    <outline text="1 · 🎯 Offensive Research &amp; Red Team" title="1 · 🎯 Offensive Research &amp; Red Team">
+      <outline text="🥷 Maldev &amp; AV/EDR Evasion" title="🥷 Maldev &amp; AV/EDR Evasion">
+        <outline type="rss" text="0xsp SRD – Security Research &amp; Development" title="0xsp SRD – Security Research &amp; Development" xmlUrl="https://0xsp.com/feed/" htmlUrl="https://0xsp.com/" />
+        <outline type="rss" text="@Wietze - Blog" title="@Wietze - Blog" xmlUrl="https://www.wietzebeukema.nl/blog/feed.xml" htmlUrl="https://www.wietzebeukema.nl/blog/" />
+        <outline type="rss" text="Blog - Daniel Bohannon" title="Blog - Daniel Bohannon" xmlUrl="https://www.danielbohannon.com/blog?format=rss" htmlUrl="https://www.danielbohannon.com/" />
+        <outline type="rss" text="Fluxsec.red Blog" title="Fluxsec.red Blog" xmlUrl="https://fluxsec.red/rss.xml" htmlUrl="https://fluxsec.red/" />
+        <outline type="rss" text="G3tSyst3m’s Infosec Blog" title="G3tSyst3m’s Infosec Blog" xmlUrl="https://g3tsyst3m.github.io/feed.xml" htmlUrl="https://g3tsyst3m.github.io/" />
+        <outline type="rss" text="Hack.Learn.Share" title="Hack.Learn.Share" xmlUrl="https://captmeelo.com/feed.xml" htmlUrl="https://captmeelo.com/" />
+        <outline type="rss" text="MalwareTech" title="MalwareTech" xmlUrl="https://www.malwaretech.com/feed" htmlUrl="https://www.malwaretech.com/" />
+        <outline type="rss" text="MalwareTech (alt)" title="MalwareTech (alt)" xmlUrl="http://www.malwaretech.com/feed?alt=rss" htmlUrl="https://www.malwaretech.com" />
+        <outline type="rss" text="Mrvar0x – YME" title="Mrvar0x – YME" xmlUrl="https://mrvar0x.com/feed/" htmlUrl="https://mrvar0x.com" />
+        <outline type="rss" text="Pavel Tsakalidis" title="Pavel Tsakalidis" xmlUrl="https://www.pavel.gr/rss.xml" htmlUrl="https://www.pavel.gr/" />
+        <outline type="rss" text="RWXStoned (Hugo Valette)" title="RWXStoned (Hugo Valette)" xmlUrl="https://rwxstoned.github.io/feed" htmlUrl="https://rwxstoned.github.io/" />
+        <outline type="rss" text="S3cur3Th1sSh1t" title="S3cur3Th1sSh1t" xmlUrl="https://s3cur3th1ssh1t.github.io/feed.xml" htmlUrl="https://s3cur3th1ssh1t.github.io/" />
+        <outline type="rss" text="Zero Salarium" title="Zero Salarium" xmlUrl="https://www.zerosalarium.com/feeds/posts/default" htmlUrl="https://www.zerosalarium.com/?m=1" />
+        <outline type="rss" text="cocomelonc" title="cocomelonc" xmlUrl="https://cocomelonc.github.io/feed.xml" htmlUrl="https://cocomelonc.github.io/" />
+        <outline type="rss" text="deeb blog" title="deeb blog" xmlUrl="https://blog.deeb.ch/feed.xml" htmlUrl="https://blog.deeb.ch/" />
+        <outline type="rss" text="klezVirus (Alessandro Magnosi)" title="klezVirus (Alessandro Magnosi)" xmlUrl="https://klezvirus.github.io/feed" htmlUrl="https://klezvirus.github.io/" />
+        <outline type="rss" text="kymBlog" title="kymBlog" xmlUrl="https://kymb0.github.io/feed.xml" htmlUrl="https://kymb0.github.io/" />
+        <outline type="rss" text="🔐Blog of Osanda" title="🔐Blog of Osanda" xmlUrl="https://osandamalith.com/feed/" htmlUrl="https://osandamalith.com" />
+      </outline>
+      <outline text="⚙️ Offensive Tool Dev &amp; C2" title="⚙️ Offensive Tool Dev &amp; C2">
+        <outline type="rss" text="Adversary Fan Fiction Writers Guild" title="Adversary Fan Fiction Writers Guild" xmlUrl="https://aff-wg.org/feed/" htmlUrl="https://aff-wg.org/" />
+        <outline type="rss" text="BREAKDEV" title="BREAKDEV" xmlUrl="http://breakdev.org/rss/" htmlUrl="https://breakdev.org/" />
+        <outline type="rss" text="Cheesy Rumbles" title="Cheesy Rumbles" xmlUrl="https://rastamouse.me/feed" htmlUrl="https://rastamouse.me/" />
+        <outline type="rss" text="Outflank" title="Outflank" xmlUrl="https://www.outflank.nl/feed/" htmlUrl="https://outflank.nl/blog/" />
+        <outline type="rss" text="Outflank Blog" title="Outflank Blog" xmlUrl="https://outflank.nl/blog/feed/" htmlUrl="https://www.outflank.nl/blog/" />
+        <outline type="rss" text="Polar's Place" title="Polar's Place" xmlUrl="https://p0142.github.io/feed.xml" htmlUrl="https://p0142.github.io/" />
+        <outline type="rss" text="Practical Security Analytics LLC" title="Practical Security Analytics LLC" xmlUrl="https://practicalsecurityanalytics.com/feed/" htmlUrl="https://practicalsecurityanalytics.com" />
+        <outline type="rss" text="Rasta Mouse" title="Rasta Mouse" xmlUrl="https://rastamouse.me/rss/" htmlUrl="https://rastamouse.me/" />
+        <outline type="rss" text="Ricardo J. Ruiz Fernández" title="Ricardo J. Ruiz Fernández" xmlUrl="https://ricardojoserf.github.io/feed.xml" htmlUrl="https://ricardojoserf.github.io/" />
+        <outline type="rss" text="White Knight Labs" title="White Knight Labs" xmlUrl="https://whiteknightlabs.com/feed/" htmlUrl="https://whiteknightlabs.com/blog/" />
+        <outline type="rss" text="mez0 infosec blog (Brandon McGrath)" title="mez0 infosec blog (Brandon McGrath)" xmlUrl="https://mez0.cc/rss.xml" htmlUrl="https://mez0.cc/" />
+      </outline>
+      <outline text="🎭 Red Team Ops &amp; Adversary Emulation" title="🎭 Red Team Ops &amp; Adversary Emulation">
+        <outline type="rss" text="@dtmsecurity" title="@dtmsecurity" xmlUrl="https://dtm.uk/rss/" htmlUrl="https://dtm.uk/" />
+        <outline type="rss" text="Adversary Simulation Blog" title="Adversary Simulation Blog" xmlUrl="https://blog.offensive.af/rss.xml" htmlUrl="https://blog.offensive.af/" />
+        <outline type="rss" text="Jakob Friedl (Conquest C2)" title="Jakob Friedl (Conquest C2)" xmlUrl="https://jakobfriedl.github.io/index.xml" htmlUrl="https://jakobfriedl.github.io/" />
+        <outline type="rss" text="RedTeamer.Tips" title="RedTeamer.Tips" xmlUrl="https://redteamer.tips/rss.xml" htmlUrl="https://redteamer.tips/" />
+        <outline type="rss" text="ZephrSec - Adventures In Information Security" title="ZephrSec - Adventures In Information Security" xmlUrl="https://blog.zsec.uk/rss/" htmlUrl="https://blog.zsec.uk/" />
+      </outline>
+      <outline text="🔑 AD &amp; Identity Attacks" title="🔑 AD &amp; Identity Attacks">
+        <outline type="rss" text="Active Directory &amp; Azure AD/Entra ID Security" title="Active Directory &amp; Azure AD/Entra ID Security" xmlUrl="https://adsecurity.org/?feed=rss2" htmlUrl="https://adsecurity.org/" />
+        <outline type="rss" text="Altered Security" title="Altered Security" xmlUrl="https://www.alteredsecurity.com/blog-feed.xml" htmlUrl="https://www.alteredsecurity.com/blogs" />
+        <outline type="rss" text="Decoder's Blog" title="Decoder's Blog" xmlUrl="https://decoder.cloud/feed/" htmlUrl="https://decoder.cloud/" />
+        <outline type="rss" text="JUMPSEC Labs" title="JUMPSEC Labs" xmlUrl="https://labs.jumpsec.com/feed" htmlUrl="https://labs.jumpsec.com/" />
+        <outline type="rss" text="Mayfly" title="Mayfly" xmlUrl="https://mayfly277.github.io/feed.xml" htmlUrl="https://mayfly277.github.io/" />
+        <outline type="rss" text="SpecterOps Podcast (The State of APM)" title="SpecterOps Podcast (The State of APM)" xmlUrl="https://specterops.io/feed/podcast/the-state-of-apm/" htmlUrl="https://specterops.io/blog/category/blog/" />
+        <outline type="rss" text="ar0x" title="ar0x" xmlUrl="https://ar0x.com/rss.xml" htmlUrl="https://ar0x.com/" />
+        <outline type="rss" text="joeware – never stop exploring… :)" title="joeware – never stop exploring… :)" xmlUrl="http://blog.joeware.net/feed/" htmlUrl="https://blog.joeware.net" />
+        <outline type="rss" text="simondotsh’s infosec blog" title="simondotsh’s infosec blog" xmlUrl="https://simondotsh.com/feed.xml" htmlUrl="https://simondotsh.com/" />
+      </outline>
+      <outline text="☁️ Cloud · Offensive Research" title="☁️ Cloud · Offensive Research">
+        <outline type="rss" text="Hacking The Cloud" title="Hacking The Cloud" xmlUrl="https://hackingthe.cloud/feed_rss_created.xml" htmlUrl="https://hackingthe.cloud/" />
+        <outline type="rss" text="TheGeryCorner" title="TheGeryCorner" xmlUrl="http://thegreycorner.com/feed.xml" htmlUrl="http://thegreycorner.com/" />
+        <outline type="rss" text="XYBYTES" title="XYBYTES" xmlUrl="https://xybytes.com/feed.xml" htmlUrl="https://xybytes.com/" />
+        <outline type="rss" text="dirkjanm.io" title="dirkjanm.io" xmlUrl="https://dirkjanm.io/feed.xml" htmlUrl="https://dirkjanm.io/" />
+        <outline type="rss" text="hausec" title="hausec" xmlUrl="https://hausec.com/feed/" htmlUrl="https://hausec.com/" />
+      </outline>
+      <outline text="💀 Pentest Tradecraft" title="💀 Pentest Tradecraft">
+        <outline type="rss" text="0xv1n" title="0xv1n" xmlUrl="https://0xv1n.github.io/index.xml" htmlUrl="https://0xv1n.github.io/" />
+        <outline type="rss" text="Adepts of 0xCC" title="Adepts of 0xCC" xmlUrl="https://adepts.of0x.cc/feed.xml" htmlUrl="https://adepts.of0x.cc/" />
+        <outline type="rss" text="BadOption.eu" title="BadOption.eu" xmlUrl="https://badoption.eu/feed.xml" htmlUrl="https://badoption.eu/" />
+        <outline type="rss" text="Black Hills Information Security, Inc." title="Black Hills Information Security, Inc." xmlUrl="https://www.blackhillsinfosec.com/feed/" htmlUrl="https://www.blackhillsinfosec.com/blog/" />
+        <outline type="rss" text="BorderGate" title="BorderGate" xmlUrl="https://www.bordergate.co.uk/feed/" htmlUrl="https://www.bordergate.co.uk/" />
+        <outline type="rss" text="Carnal0wnage &amp; Attack Research Blog" title="Carnal0wnage &amp; Attack Research Blog" xmlUrl="http://carnal0wnage.blogspot.com/feeds/posts/default" htmlUrl="http://carnal0wnage.attackresearch.com/" />
+        <outline type="rss" text="Compass Security Blog" title="Compass Security Blog" xmlUrl="https://blog.compass-security.com/feed/" htmlUrl="https://blog.compass-security.com" />
+        <outline type="rss" text="DarkRelay Security Labs" title="DarkRelay Security Labs" xmlUrl="https://www.darkrelay.com/blog-feed.xml" htmlUrl="https://www.darkrelay.com/blog" />
+        <outline type="rss" text="Depth Security" title="Depth Security" xmlUrl="https://www.depthsecurity.com/feed/" htmlUrl="https://depthsecurity.com/blog" />
+        <outline type="rss" text="DigiNinja" title="DigiNinja" xmlUrl="https://digi.ninja/rss.xml" htmlUrl="https://digi.ninja/rss.xml" />
+        <outline type="rss" text="Hackers Arise" title="Hackers Arise" xmlUrl="https://hackers-arise.com/feed/" htmlUrl="https://hackers-arise.com/articles/" />
+        <outline type="rss" text="Hacking Articles" title="Hacking Articles" xmlUrl="http://www.hackingarticles.in/feed/" htmlUrl="https://www.hackingarticles.in" />
+        <outline type="rss" text="Hacking Articles|Raj Chandel's Blog" title="Hacking Articles|Raj Chandel's Blog" xmlUrl="http://rajhackingarticles.blogspot.com/feeds/posts/default" htmlUrl="http://rajhackingarticles.blogspot.com/" />
+        <outline type="rss" text="Jeffrey Bencteux" title="Jeffrey Bencteux" xmlUrl="https://www.bencteux.fr/index.xml" htmlUrl="https://www.bencteux.fr/" />
+        <outline type="rss" text="Lares" title="Lares" xmlUrl="https://www.lares.com/feed/" htmlUrl="https://www.lares.com/blog/custom-detection-engineering-strengthening-blue-teams-with-lares-purple-team-testing/" />
+        <outline type="rss" text="LuemmelSec" title="LuemmelSec" xmlUrl="https://luemmelsec.github.io/feed.xml" htmlUrl="https://luemmelsec.github.io/" />
+        <outline type="rss" text="MDSec" title="MDSec" xmlUrl="https://www.mdsec.co.uk/feed/" htmlUrl="https://www.mdsec.co.uk/knowledge-centre/insights/" />
+        <outline type="rss" text="Minder-Security" title="Minder-Security" xmlUrl="https://minder-security.ghost.io/rss/" htmlUrl="https://minder-security.ghost.io/" />
+        <outline type="rss" text="NetSPI" title="NetSPI" xmlUrl="https://www.netspi.com/blog/rssid/1" htmlUrl="https://www.netspi.com/" />
+        <outline type="rss" text="NetSPI Blog" title="NetSPI Blog" xmlUrl="https://www.netspi.com/feed/" htmlUrl="https://blog.netspi.com" />
+        <outline type="rss" text="Posts on JakeWnuk.com" title="Posts on JakeWnuk.com" xmlUrl="https://jakewnuk.com/posts/index.xml" htmlUrl="https://jakewnuk.com/posts/" />
+        <outline type="rss" text="Posts on Xre0uS" title="Posts on Xre0uS" xmlUrl="https://Xre0uS.io/posts/index.xml" htmlUrl="https://Xre0uS.io/posts/" />
+        <outline type="rss" text="Praetorian (site)" title="Praetorian (site)" xmlUrl="https://www.praetorian.com/feed/" htmlUrl="https://www.praetorian.com/blog" />
+        <outline type="rss" text="Raxis" title="Raxis" xmlUrl="https://raxis.com/feed/" htmlUrl="https://raxis.com/blog" />
+        <outline type="rss" text="Research Blog | Project Black" title="Research Blog | Project Black" xmlUrl="https://projectblack.io/blog/rss/" htmlUrl="https://projectblack.io/blog/" />
+        <outline type="rss" text="SCRT Team Blog" title="SCRT Team Blog" xmlUrl="https://blog.scrt.ch/feed/" htmlUrl="https://blog.scrt.ch/" />
+        <outline type="rss" text="Securify blogs" title="Securify blogs" xmlUrl="https://www.securify.nl/rss/blogs.xml" htmlUrl="https://www.securify.nl/en/articles/" />
+        <outline type="rss" text="Security Friends' Research Blog" title="Security Friends' Research Blog" xmlUrl="https://blog.fndsec.net/feed/" htmlUrl="https://blog.fndsec.net/" />
+        <outline type="rss" text="Sensepost" title="Sensepost" xmlUrl="https://sensepost.com/rss.xml" htmlUrl="https://sensepost.com/rss.xml" />
+        <outline type="rss" text="Shells.Systems" title="Shells.Systems" xmlUrl="https://shells.systems/feed/" htmlUrl="https://shells.systems/" />
+        <outline type="rss" text="TrustedSec (WordPress)" title="TrustedSec (WordPress)" xmlUrl="https://www.trustedsec.com/feed/" htmlUrl="https://www.trustedsec.com" />
+        <outline type="rss" text="XPN InfoSec Blog" title="XPN InfoSec Blog" xmlUrl="https://blog.xpnsec.com/rss/" htmlUrl="https://blog.xpnsec.com/" />
+        <outline type="rss" text="cat /dev/brain" title="cat /dev/brain" xmlUrl="https://naehrdine.blogspot.com/feeds/posts/default" htmlUrl="https://naehrdine.blogspot.com/" />
+        <outline type="rss" text="frereit's blog" title="frereit's blog" xmlUrl="https://frereit.de/index.xml" htmlUrl="https://frereit.de/" />
+        <outline type="rss" text="jakewnuk.com" title="jakewnuk.com" xmlUrl="https://jakewnuk.com/index.xml" htmlUrl="https://jakewnuk.com/" />
+        <outline type="rss" text="mkiesel.ch" title="mkiesel.ch" xmlUrl="https://mkiesel.ch/feed.xml" htmlUrl="https://mkiesel.ch/posts/" />
+        <outline type="rss" text="stmxcsr.com" title="stmxcsr.com" xmlUrl="https://stmxcsr.com/feed.xml" htmlUrl="https://stmxcsr.com/" />
+        <outline type="rss" text="x-c3ll.github.io" title="x-c3ll.github.io" xmlUrl="https://x-c3ll.github.io/atom.xml" htmlUrl="https://x-c3ll.github.io/" />
+      </outline>
+      <outline text="🧪 Research Labs &amp; Mixed VR" title="🧪 Research Labs &amp; Mixed VR">
+        <outline type="rss" text="Addison Crump" title="Addison Crump" xmlUrl="https://addisoncrump.info/rss.xml" htmlUrl="https://addisoncrump.info" />
+        <outline type="rss" text="Almost Secure" title="Almost Secure" xmlUrl="https://palant.info/rss.xml" htmlUrl="https://palant.info/articles/" />
+        <outline type="rss" text="Arch Cloud Labs" title="Arch Cloud Labs" xmlUrl="https://www.archcloudlabs.com/index.xml" htmlUrl="https://www.archcloudlabs.com/" />
+        <outline type="rss" text="Blog - Atredis Partners" title="Blog - Atredis Partners" xmlUrl="https://www.atredis.com/blog?format=rss" htmlUrl="https://www.atredis.com/blog" />
+        <outline type="rss" text="Blog on DARKNAVY" title="Blog on DARKNAVY" xmlUrl="https://www.darknavy.org/blog/index.xml" htmlUrl="https://www.darknavy.org/blog/" />
+        <outline type="rss" text="Calif" title="Calif" xmlUrl="https://blog.calif.io/feed" htmlUrl="https://blog.calif.io" />
+        <outline type="rss" text="DEVCORE 戴夫寇爾" title="DEVCORE 戴夫寇爾" xmlUrl="https://devco.re/rss" htmlUrl="https://devco.re/en/blog/" />
+        <outline type="rss" text="David Buchanan's Blog" title="David Buchanan's Blog" xmlUrl="https://www.da.vidbuchanan.co.uk/blog/rss.xml" htmlUrl="https://www.da.vidbuchanan.co.uk/blog/" />
+        <outline type="rss" text="Exodus Intelligence" title="Exodus Intelligence" xmlUrl="https://blog.exodusintel.com/feed/" htmlUrl="https://blog.exodusintel.com/" />
+        <outline type="rss" text="Exploit Reversing" title="Exploit Reversing" xmlUrl="https://exploitreversing.com/feed/" htmlUrl="https://exploitreversing.com" />
+        <outline type="rss" text="GitHub Security Lab" title="GitHub Security Lab" xmlUrl="https://securitylab.github.com/feed" htmlUrl="https://securitylab.github.com/research" />
+        <outline type="rss" text="Gynvael Coldwind" title="Gynvael Coldwind" xmlUrl="http://feeds.feedburner.com/GynvaelColdwindEN" htmlUrl="https://gynvael.coldwind.pl/" />
+        <outline type="rss" text="Hacktive Security Blog » Feed" title="Hacktive Security Blog » Feed" xmlUrl="https://blog.hacktivesecurity.com/index.php/feed/" htmlUrl="https://www.hacktivesecurity.com" />
+        <outline type="rss" text="Include Security Research Blog" title="Include Security Research Blog" xmlUrl="https://blog.includesecurity.com/feed/" htmlUrl="https://blog.includesecurity.com/" />
+        <outline type="rss" text="Jack Hacks" title="Jack Hacks" xmlUrl="https://jhalon.github.io/feed.xml" htmlUrl="https://jhalon.github.io/posts.html" />
+        <outline type="rss" text="Joshua.Hu | Joshua Rogers’ Scribbles" title="Joshua.Hu | Joshua Rogers’ Scribbles" xmlUrl="https://joshua.hu/feed.xml" htmlUrl="https://joshua.hu/" />
+        <outline type="rss" text="Keen Security Lab Blog" title="Keen Security Lab Blog" xmlUrl="http://keenlab.tencent.com/en/atom.xml" htmlUrl="http://keenlab.tencent.com/en/" />
+        <outline type="rss" text="Lexfo's security blog" title="Lexfo's security blog" xmlUrl="https://blog.lexfo.fr/feeds/all.atom.xml" htmlUrl="https://blog.lexfo.fr/" />
+        <outline type="rss" text="Neodyme’s Blog" title="Neodyme’s Blog" xmlUrl="https://neodyme.io/rss.xml" htmlUrl="https://neodyme.io/blog/" />
+        <outline type="rss" text="Netspooky's Blog" title="Netspooky's Blog" xmlUrl="https://n0.lol/index.xml" htmlUrl="https://n0.lol/" />
+        <outline type="rss" text="PT SWARM" title="PT SWARM" xmlUrl="https://swarm.ptsecurity.com/feed/" htmlUrl="https://swarm.ptsecurity.com/" />
+        <outline type="rss" text="Peter Gabaldon" title="Peter Gabaldon" xmlUrl="https://pgj11.com/feed" htmlUrl="https://pgj11.com/" />
+        <outline type="rss" text="Peter Gabaldon (alt)" title="Peter Gabaldon (alt)" xmlUrl="https://pgj11.com/feed.xml" htmlUrl="https://petergabaldon.github.io/" />
+        <outline type="rss" text="Posts on Maurice's Blog 🐍" title="Posts on Maurice's Blog 🐍" xmlUrl="https://momo5502.com/posts/index.xml" htmlUrl="https://momo5502.com/posts/" />
+        <outline type="rss" text="Praetorian (blog)" title="Praetorian (blog)" xmlUrl="https://www.praetorian.com/blog/feed/" htmlUrl="https://www.praetorian.com/blog/" />
+        <outline type="rss" text="Project Zero (blogger id)" title="Project Zero (blogger id)" xmlUrl="https://www.blogger.com/feeds/4838136820032157985/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/" />
+        <outline type="rss" text="Project Zero (blogspot rss)" title="Project Zero (blogspot rss)" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://googleprojectzero.blogspot.com/" />
+        <outline type="rss" text="Project Zero (blogspot)" title="Project Zero (blogspot)" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/" />
+        <outline type="rss" text="Project Zero (projectzero.google)" title="Project Zero (projectzero.google)" xmlUrl="https://projectzero.google/feed.xml" htmlUrl="https://googleprojectzero.blogspot.com/?m=0" />
+        <outline type="rss" text="Projects on Arch Cloud Labs" title="Projects on Arch Cloud Labs" xmlUrl="https://www.archcloudlabs.com/projects/index.xml" htmlUrl="https://www.archcloudlabs.com/projects/" />
+        <outline type="rss" text="Quarkslab" title="Quarkslab" xmlUrl="https://blog.quarkslab.com/feeds/all.rss.xml" htmlUrl="https://blog.quarkslab.com/" />
+        <outline type="rss" text="Quarkslab's blog" title="Quarkslab's blog" xmlUrl="https://blog.quarkslab.com/feeds/all.atom.xml" htmlUrl="https://blog.quarkslab.com/" />
+        <outline type="rss" text="Shortjump!" title="Shortjump!" xmlUrl="https://0xeb.net/feed/" htmlUrl="https://0xeb.net/" />
+        <outline type="rss" text="Silent Signal Techblog" title="Silent Signal Techblog" xmlUrl="http://blog.silentsignal.eu/feed/" htmlUrl="https://blog.silentsignal.eu" />
+        <outline type="rss" text="SixSixSix" title="SixSixSix" xmlUrl="https://trexnegro.github.io/feed.xml" htmlUrl="https://trexnegro.github.io/" />
+        <outline type="rss" text="SpecterOps" title="SpecterOps" xmlUrl="https://specterops.io/feed/" htmlUrl="https://specterops.io/" />
+        <outline type="rss" text="SySS Tech Blog" title="SySS Tech Blog" xmlUrl="https://blog.syss.com/feed" htmlUrl="https://blog.syss.com/" />
+        <outline type="rss" text="Synacktiv" title="Synacktiv" xmlUrl="https://www.synacktiv.com/en/feed/lastblog.xml" htmlUrl="https://www.synacktiv.com/en/publications.html" />
+        <outline type="rss" text="The Trail of Bits Blog" title="The Trail of Bits Blog" xmlUrl="https://blog.trailofbits.com/feed/" htmlUrl="https://blog.trailofbits.com/" />
+        <outline type="rss" text="Tinyhack.com" title="Tinyhack.com" xmlUrl="http://tinyhack.com/feed/" htmlUrl="https://tinyhack.com" />
+        <outline type="rss" text="VoidSec" title="VoidSec" xmlUrl="https://voidsec.com/feed/" htmlUrl="https://voidsec.com/category/blog/" />
+        <outline type="rss" text="clearbluejar" title="clearbluejar" xmlUrl="https://clearbluejar.github.io/feed.xml" htmlUrl="https://clearbluejar.github.io/" />
+        <outline type="rss" text="core-jmp" title="core-jmp" xmlUrl="https://core-jmp.org/feed/" htmlUrl="https://core-jmp.org/" />
+        <outline type="rss" text="dgl.cx" title="dgl.cx" xmlUrl="http://dgl.cx/feed" htmlUrl="https://dgl.cx" />
+        <outline type="rss" text="elttam" title="elttam" xmlUrl="https://www.elttam.com/blog/rss.xml" htmlUrl="https://www.elttam.com/blog/" />
+        <outline type="rss" text="gynvael.coldwind//vx.log (en)" title="gynvael.coldwind//vx.log (en)" xmlUrl="https://gynvael.coldwind.pl/rss_en.php" htmlUrl="https://gynvael.coldwind.pl/" />
+        <outline type="rss" text="gynvael.coldwind//vx.log (pl)" title="gynvael.coldwind//vx.log (pl)" xmlUrl="http://feeds.feedburner.com/GynvaelColdwindPL" htmlUrl="https://gynvael.coldwind.pl/" />
+        <outline type="rss" text="secret club" title="secret club" xmlUrl="https://secret.club/feed.xml" htmlUrl="https://secret.club/" />
+      </outline>
+      <outline text="🧨 VR · Windows Internals &amp; Kernel" title="🧨 VR · Windows Internals &amp; Kernel">
+        <outline type="rss" text="AaLl86 Security" title="AaLl86 Security" xmlUrl="http://www.andrea-allievi.com/feed/" htmlUrl="https://www.andrea-allievi.com" />
+        <outline type="rss" text="Bad_Jubies" title="Bad_Jubies" xmlUrl="https://bad-jubies.github.io/feed.xml" htmlUrl="https://bad-jubies.github.io/" />
+        <outline type="rss" text="BlackSnufkin" title="BlackSnufkin" xmlUrl="https://blacksnufkin.github.io/feed.xml" htmlUrl="https://blacksnufkin.github.io/" />
+        <outline type="rss" text="Blog on PixiePoint Security" title="Blog on PixiePoint Security" xmlUrl="https://www.pixiepointsecurity.com/blog/index.xml" htmlUrl="https://www.pixiepointsecurity.com/blog/" />
+        <outline type="rss" text="Chad Duffey" title="Chad Duffey" xmlUrl="https://www.chadduffey.com/feed.xml" htmlUrl="https://chadduffey.com/" />
+        <outline type="rss" text="Connor McGarr’s Blog" title="Connor McGarr’s Blog" xmlUrl="https://connormcgarr.github.io/feed.xml" htmlUrl="https://connormcgarr.github.io/" />
+        <outline type="rss" text="Corelan Team" title="Corelan Team" xmlUrl="https://www.corelan.be/index.php/feed/" htmlUrl="https://www.corelan.be" />
+        <outline type="rss" text="Exploit Pack - News" title="Exploit Pack - News" xmlUrl="https://www.exploitpack.com/blogs/news.atom" htmlUrl="https://www.exploitpack.com/blogs/news" />
+        <outline type="rss" text="Grzegorz Tworek - ex-MVP^18" title="Grzegorz Tworek - ex-MVP^18" xmlUrl="https://www.gtworek.com/rss/" htmlUrl="https://www.gtworek.com/" />
+        <outline type="rss" text="Ido Veltman :: Security Research" title="Ido Veltman :: Security Research" xmlUrl="https://idov31.github.io/rss.xml" htmlUrl="https://idov31.github.io/" />
+        <outline type="rss" text="Pavel Yosifovich" title="Pavel Yosifovich" xmlUrl="https://scorpiosoftware.net/feed/" htmlUrl="https://scorpiosoftware.net" />
+        <outline type="rss" text="Reverse Engineering 0x4 Fun" title="Reverse Engineering 0x4 Fun" xmlUrl="http://rce4fun.blogspot.com/feeds/posts/default" htmlUrl="http://rce4fun.blogspot.com/" />
+        <outline type="rss" text="Sud0Ru" title="Sud0Ru" xmlUrl="https://sud0ru.ghost.io/rss/" htmlUrl="https://sud0ru.ghost.io/" />
+        <outline type="rss" text="Winsider Seminars &amp; Solutions Inc." title="Winsider Seminars &amp; Solutions Inc." xmlUrl="https://windows-internals.com/feed/" htmlUrl="https://windows-internals.com/pages/internals-blog/" />
+        <outline type="rss" text="ZwClose" title="ZwClose" xmlUrl="https://zwclose.github.io/feed.xml" htmlUrl="https://zwclose.github.io/" />
+        <outline type="rss" text="itm4n's blog" title="itm4n's blog" xmlUrl="https://itm4n.github.io/feed.xml" htmlUrl="https://itm4n.github.io/" />
+        <outline type="rss" text="revers.engineering" title="revers.engineering" xmlUrl="https://revers.engineering/feed/" htmlUrl="https://revers.engineering/" />
+        <outline type="rss" text="vegvisir" title="vegvisir" xmlUrl="https://v1k1ngfr.github.io//feed.xml" htmlUrl="https://v1k1ngfr.github.io//" />
+      </outline>
+      <outline text="🐧 VR · Linux Kernel &amp; Binary Exploitation" title="🐧 VR · Linux Kernel &amp; Binary Exploitation">
+        <outline type="rss" text="Allele Security Intelligence" title="Allele Security Intelligence" xmlUrl="https://allelesecurity.com/feed/" htmlUrl="https://allelesecurity.com" />
+        <outline type="rss" text="Mohamed Sayed - Blog" title="Mohamed Sayed - Blog" xmlUrl="https://flex0geek.blogspot.com/feeds/posts/default" htmlUrl="https://flex0geek.blogspot.com/" />
+        <outline type="rss" text="hyprblog" title="hyprblog" xmlUrl="https://blog.coffinsec.com/feed.xml" htmlUrl="https://blog.coffinsec.com/" />
+        <outline type="rss" text="kqx" title="kqx" xmlUrl="https://kqx.io/index.xml" htmlUrl="https://kqx.io/post/" />
+        <outline type="rss" text="lolcads tech blog" title="lolcads tech blog" xmlUrl="https://lolcads.github.io/index.xml" htmlUrl="https://lolcads.github.io/" />
+        <outline type="rss" text="zolutal’s blog" title="zolutal’s blog" xmlUrl="https://blog.zolutal.io/feed.xml" htmlUrl="https://zolutal.github.io/" />
+      </outline>
+      <outline text="🍏 VR · Apple (macOS/iOS)" title="🍏 VR · Apple (macOS/iOS)">
+        <outline type="rss" text="Alfie CG" title="Alfie CG" xmlUrl="https://alfiecg.uk/feed.xml" htmlUrl="https://alfiecg.uk/" />
+        <outline type="rss" text="Gergely's hack blog" title="Gergely's hack blog" xmlUrl="https://gergelykalman.com/feeds/all.atom.xml" htmlUrl="https://gergelykalman.com/" />
+        <outline type="rss" text="Mickey’s Blogs" title="Mickey’s Blogs" xmlUrl="https://jhftss.github.io/feed.xml" htmlUrl="https://jhftss.github.io/" />
+        <outline type="rss" text="Posts on Wojciech Reguła" title="Posts on Wojciech Reguła" xmlUrl="https://wojciechregula.blog/post/rss.xml" htmlUrl="https://wojciechregula.blog/post/" />
+        <outline type="rss" text="Posts on theevilbit blog" title="Posts on theevilbit blog" xmlUrl="https://theevilbit.github.io/posts/index.xml" htmlUrl="https://theevilbit.github.io/posts/" />
+        <outline type="rss" text="Security Research &amp; Defense" title="Security Research &amp; Defense" xmlUrl="https://srd.cx/feed/" htmlUrl="https://srd.cx/" />
+        <outline type="rss" text="reverse.put.as" title="reverse.put.as" xmlUrl="http://reverse.put.as/feed/" htmlUrl="https://reverse.put.as/" />
+        <outline type="rss" text="reverse.put.as (macOS)" title="reverse.put.as (macOS)" xmlUrl="https://reverse.put.as/index.xml" htmlUrl="https://reverse.put.as/" />
+        <outline type="rss" text="theevilbit blog" title="theevilbit blog" xmlUrl="https://theevilbit.github.io/index.xml" htmlUrl="https://theevilbit.github.io/" />
+      </outline>
+      <outline text="🕸️ Web &amp; API Vulnerability Research" title="🕸️ Web &amp; API Vulnerability Research">
+        <outline type="rss" text="Blog of psytester" title="Blog of psytester" xmlUrl="https://psytester.github.io/feed.xml" htmlUrl="https://psytester.github.io/" />
+        <outline type="rss" text="Blog | Sam Curry" title="Blog | Sam Curry" xmlUrl="https://samcurry.net/feed.rss" htmlUrl="https://samcurry.net" />
+        <outline type="rss" text="Doyensec's Blog" title="Doyensec's Blog" xmlUrl="https://blog.doyensec.com/atom.xml" htmlUrl="https://blog.doyensec.com/" />
+        <outline type="rss" text="Frederik Braun" title="Frederik Braun" xmlUrl="https://frederik-braun.com/feeds/all.atom.xml" htmlUrl="https://frederikbraun.de/" />
+        <outline type="rss" text="Hackerman's Hacking Tutorials" title="Hackerman's Hacking Tutorials" xmlUrl="https://parsiya.net/index.xml" htmlUrl="https://parsiya.net/" />
+        <outline type="rss" text="HoyaHaxa: A Security Research Blog" title="HoyaHaxa: A Security Research Blog" xmlUrl="https://hoyahaxa.blogspot.com/feeds/posts/default" htmlUrl="https://www.hoyahaxa.com/" />
+        <outline type="rss" text="Luke Rindels" title="Luke Rindels" xmlUrl="http://luke.abq.nm.us/feed.xml" htmlUrl="https://luker983.github.io/" />
+        <outline type="rss" text="Omegapoint Security Blog" title="Omegapoint Security Blog" xmlUrl="https://securityblog.omegapoint.se/feed.xml" htmlUrl="https://securityblog.omegapoint.se" />
+        <outline type="rss" text="Orange Tsai" title="Orange Tsai" xmlUrl="https://blog.orange.tw/atom.xml" htmlUrl="https://blog.orange.tw/" />
+        <outline type="rss" text="PortSwigger Research" title="PortSwigger Research" xmlUrl="https://portswigger.net/research/rss" htmlUrl="https://portswigger.net/research" />
+        <outline type="rss" text="Posts on (Web-)Insecurity Blog" title="Posts on (Web-)Insecurity Blog" xmlUrl="https://security.lauritz-holtmann.de/post/index.xml" htmlUrl="https://security.lauritz-holtmann.de/post/" />
+        <outline type="rss" text="Sjoerd Langkemper" title="Sjoerd Langkemper" xmlUrl="http://www.sjoerdlangkemper.nl/feed.xml" htmlUrl="https://www.sjoerdlangkemper.nl/" />
+        <outline type="rss" text="Somdev Sangwan - blog" title="Somdev Sangwan - blog" xmlUrl="https://s0md3v.github.io/feed.xml" htmlUrl="https://s0md3v.github.io/" />
+        <outline type="rss" text="cyberroute" title="cyberroute" xmlUrl="https://cyberroute.github.io/index.xml" htmlUrl="https://cyberroute.github.io/" />
+        <outline type="rss" text="hackcommander.github.io" title="hackcommander.github.io" xmlUrl="https://hackcommander.github.io/feed.xml" htmlUrl="https://hackcommander.github.io/" />
+        <outline type="rss" text="home on lyra's epic blog" title="home on lyra's epic blog" xmlUrl="https://lyra.horse/blog/index.xml" htmlUrl="https://lyra.horse/blog/" />
+        <outline type="rss" text="markitzeroday.com" title="markitzeroday.com" xmlUrl="https://markitzeroday.com/feed.xml" htmlUrl="https://markitzeroday.com/" />
+        <outline type="rss" text="pspaul's blog" title="pspaul's blog" xmlUrl="https://blog.pspaul.de/atom.xml" htmlUrl="https://blog.pspaul.de/" />
+      </outline>
+      <outline text="🎯 Bug Bounty Write-ups" title="🎯 Bug Bounty Write-ups">
+        <outline type="rss" text="Bergee's Stories on Bug Hunting" title="Bergee's Stories on Bug Hunting" xmlUrl="https://bergee.it/blog/feed/" htmlUrl="https://bergee.it/blog/" />
+        <outline type="rss" text="Brutecat · Research" title="Brutecat · Research" xmlUrl="https://brutecat.com/rss.xml" htmlUrl="https://brutecat.com/" />
+        <outline type="rss" text="Burninator Sec" title="Burninator Sec" xmlUrl="http://burninatorsec.blogspot.com/feeds/posts/default" htmlUrl="http://burninatorsec.blogspot.com/" />
+        <outline type="rss" text="Evan Ricafort | Blog" title="Evan Ricafort | Blog" xmlUrl="https://blog.evanricafort.com/feeds/posts/default" htmlUrl="http://blog.evanricafort.com/" />
+        <outline type="rss" text="InfoSec Write-ups - Medium" title="InfoSec Write-ups - Medium" xmlUrl="https://infosecwriteups.com/feed" htmlUrl="https://infosecwriteups.com?source=rss----7b722bfd1b8d---4" />
+        <outline type="rss" text="Pethuraj's Blog" title="Pethuraj's Blog" xmlUrl="https://www.pethuraj.com/blog/feed/" htmlUrl="https://www.pethuraj.com/blog/" />
+        <outline type="rss" text="Voorivex's Team" title="Voorivex's Team" xmlUrl="https://blog.voorivex.team/rss.xml" htmlUrl="https://blog.voorivex.team" />
+        <outline type="rss" text="ndevtk Writeups" title="ndevtk Writeups" xmlUrl="https://ndevtk.github.io/writeups/feed.xml" htmlUrl="https://ndevtk.github.io/writeups/" />
+        <outline type="rss" text="xyzeva's blog" title="xyzeva's blog" xmlUrl="https://kibty.town/blog.rss" htmlUrl="https://kibty.town/" />
+      </outline>
+      <outline text="🏴 CTF · Write-ups" title="🏴 CTF · Write-ups">
+        <outline type="rss" text="./amnesia.sh" title="./amnesia.sh" xmlUrl="https://clairelevin.github.io/feed.xml" htmlUrl="https://amnesia.sh/" />
+        <outline type="rss" text="0x90r00t" title="0x90r00t" xmlUrl="https://0x90r00t.com/feed/" htmlUrl="https://0x90r00t.com" />
+        <outline type="rss" text="0xdf hacks stuff" title="0xdf hacks stuff" xmlUrl="https://0xdf.gitlab.io/feed.xml" htmlUrl="https://0xdf.gitlab.io/" />
+        <outline type="rss" text="FireShell Security Team" title="FireShell Security Team" xmlUrl="https://fireshellsecurity.team/feed.xml" htmlUrl="https://fireshellsecurity.team/" />
+        <outline type="rss" text="Happy Hacking!" title="Happy Hacking!" xmlUrl="https://xavibel.com/feed/" htmlUrl="https://xavibel.com/" />
+        <outline type="rss" text="Kalmarunionen" title="Kalmarunionen" xmlUrl="https://www.kalmarunionen.dk/index.xml" htmlUrl="https://www.kalmarunionen.dk/" />
+        <outline type="rss" text="Posts on Ligniform Blog" title="Posts on Ligniform Blog" xmlUrl="https://ligniform.blog/posts/index.xml" htmlUrl="https://ligniform.blog/posts/" />
+        <outline type="rss" text="Posts on VIE" title="Posts on VIE" xmlUrl="https://jamvie.net/posts/index.xml" htmlUrl="https://jamvie.net/posts/" />
+        <outline type="rss" text="Quantumly Confused" title="Quantumly Confused" xmlUrl="https://blog.quantumlyconfused.com/feed.xml" htmlUrl="https://padraignix.github.io/" />
+        <outline type="rss" text="Rawsec" title="Rawsec" xmlUrl="https://blog.raw.pm/rss.xml" htmlUrl="https://blog.raw.pm/" />
+        <outline type="rss" text="Ronnie's Blog" title="Ronnie's Blog" xmlUrl="https://blog.spookysec.net/feed.xml" htmlUrl="https://blog.spookysec.net//" />
+        <outline type="rss" text="Tal's Tech Treks" title="Tal's Tech Treks" xmlUrl="https://talsk.github.io/feed.xml" htmlUrl="https://talsk.github.io/" />
+        <outline type="rss" text="Welcome to Chovid99's Blog" title="Welcome to Chovid99's Blog" xmlUrl="https://chovid99.github.io/posts/index.xml" htmlUrl="https://chovid99.github.io/posts/" />
+        <outline type="rss" text="Wiremask's Feed" title="Wiremask's Feed" xmlUrl="https://wiremask.eu/atom.xml" htmlUrl="https://wiremask.eu" />
+        <outline type="rss" text="blog.ant0i.net - my little techie blog" title="blog.ant0i.net - my little techie blog" xmlUrl="http://blog.ant0i.net/feeds/posts/default" htmlUrl="http://blog.ant0i.net/" />
+        <outline type="rss" text="etticblog" title="etticblog" xmlUrl="https://blog.ettic.ca/feed" htmlUrl="https://medium.com/@ettic?source=rss-f17bfdeba4f8------2" />
+      </outline>
+      <outline text="🏴 CTF · Training, Labs &amp; Certs" title="🏴 CTF · Training, Labs &amp; Certs">
+        <outline type="rss" text="Alexandre Fernandes @0xAlexandre" title="Alexandre Fernandes @0xAlexandre" xmlUrl="https://fernale.blogspot.com/feeds/posts/default" htmlUrl="https://fernale.blogspot.com/" />
+        <outline type="rss" text="Muhammad Adel" title="Muhammad Adel" xmlUrl="https://itsfading.github.io/feed.xml" htmlUrl="https://itsfading.github.io/" />
+        <outline type="rss" text="NoSecurity" title="NoSecurity" xmlUrl="https://nosecurity.blog/feed.xml" htmlUrl="https://nosecurity.blog/" />
+        <outline type="rss" text="Security Training" title="Security Training" xmlUrl="http://www.securitytut.com/feed" htmlUrl="https://www.securitytut.com" />
+        <outline type="rss" text="StefLan's Security Blog" title="StefLan's Security Blog" xmlUrl="https://steflan-security.com/feed/" htmlUrl="https://steflan-security.com" />
+        <outline type="rss" text="System Weakness - Medium" title="System Weakness - Medium" xmlUrl="https://systemweakness.com/feed" htmlUrl="https://systemweakness.com?source=rss----f20a9840e177---4" />
+        <outline type="rss" text="TCM Security" title="TCM Security" xmlUrl="https://tcm-sec.com/feed/" htmlUrl="https://tcm-sec.com" />
+        <outline type="rss" text="tbhaxor's Blog" title="tbhaxor's Blog" xmlUrl="https://tbhaxor.com/rss/" htmlUrl="https://tbhaxor.com/" />
+      </outline>
+      <outline text="📜 VR · Product Advisories &amp; Disclosures" title="📜 VR · Product Advisories &amp; Disclosures">
+        <outline type="rss" text="AmberWolf Research" title="AmberWolf Research" xmlUrl="https://blog.amberwolf.com/index.xml" htmlUrl="https://blog.amberwolf.com/" />
+        <outline type="rss" text="CODE WHITE | Red Teaming &amp; Attack Surface Management" title="CODE WHITE | Red Teaming &amp; Attack Surface Management" xmlUrl="https://code-white.com/index.xml" htmlUrl="https://code-white.com/blog/" />
+        <outline type="rss" text="Enable Security" title="Enable Security" xmlUrl="https://www.enablesecurity.com/index.xml" htmlUrl="https://www.rtcsec.com/" />
+        <outline type="rss" text="Home on Shielder" title="Home on Shielder" xmlUrl="https://www.shielder.com/index.xml" htmlUrl="https://www.shielder.com/blog/" />
+        <outline type="rss" text="IT Security Research by Pierre" title="IT Security Research by Pierre" xmlUrl="https://pierrekim.github.io/blog/feed.xml" htmlUrl="https://pierrekim.github.io" />
+        <outline type="rss" text="Labs at ITRES" title="Labs at ITRES" xmlUrl="https://labs.itresit.es/feed/" htmlUrl="https://labs.itresit.es/" />
+        <outline type="rss" text="MrBruh's Epic Blog" title="MrBruh's Epic Blog" xmlUrl="https://mrbruh.com/index.xml" htmlUrl="https://mrbruh.com/" />
+        <outline type="rss" text="NeroTeam Security Labs" title="NeroTeam Security Labs" xmlUrl="https://neroteam.com/blog/feed" htmlUrl="https://neroteam.com" />
+        <outline type="rss" text="Nightwatch Cybersecurity" title="Nightwatch Cybersecurity" xmlUrl="https://wwws.nightwatchcybersecurity.com/feed/" htmlUrl="https://wwws.nightwatchcybersecurity.com/blog/" />
+        <outline type="rss" text="Pentagrid AG" title="Pentagrid AG" xmlUrl="https://www.pentagrid.ch/de/rss.xml" htmlUrl="https://www.pentagrid.ch/en/blog/" />
+        <outline type="rss" text="RCE Security" title="RCE Security" xmlUrl="https://www.rcesecurity.com/feed" htmlUrl="https://www.rcesecurity.com" />
+        <outline type="rss" text="RCE Security | Penetration Tests. Source Code Reviews. IT Security Audits." title="RCE Security | Penetration Tests. Source Code Reviews. IT Security Audits." xmlUrl="https://www.rcesecurity.com/index.xml" htmlUrl="https://www.rcesecurity.com/" />
+        <outline type="rss" text="Rhino Security Labs" title="Rhino Security Labs" xmlUrl="https://rhinosecuritylabs.com/blog/feed/" htmlUrl="https://rhinosecuritylabs.com" />
+        <outline type="rss" text="Shielder" title="Shielder" xmlUrl="https://www.shielder.it/blog/index.xml" htmlUrl="https://www.shielder.it/blog/" />
+        <outline type="rss" text="Source Incite" title="Source Incite" xmlUrl="https://srcincite.io/feed.xml" htmlUrl="https://srcincite.io/exploits/" />
+        <outline type="rss" text="Think Love Share" title="Think Love Share" xmlUrl="https://thinkloveshare.com/index.xml" htmlUrl="https://thinkloveshare.com/" />
+        <outline type="rss" text="watchTowr Labs" title="watchTowr Labs" xmlUrl="https://labs.watchtowr.com/rss/" htmlUrl="https://labs.watchtowr.com/" />
+        <outline type="rss" text="www.x41-dsec.de" title="www.x41-dsec.de" xmlUrl="https://x41-dsec.de/feed.xml" htmlUrl="https://www.x41-dsec.de/lab/advisories/" />
+      </outline>
+    </outline>
+  </body>
+</opml>
